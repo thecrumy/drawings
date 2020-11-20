@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T01:05:51.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.10.0" etag="XwS3s-bHHV2G5RNA9uTB" type="github"><diagram id="HKEE3XO7-LQF8aVyYUgO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-20T02:15:47.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="KHv-kwZvEThHCXl9GWe5" version="13.10.0" type="github">
+  <diagram id="HKEE3XO7-LQF8aVyYUgO" name="Page-1">
+    <mxGraphModel dx="1475" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-18" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-5" value="" style="whiteSpace=wrap;html=1;imageAspect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/355-Document_Financial-128.png" vertex="1" parent="1">
+          <mxGeometry x="806" y="322" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Bank-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-6" value="Morty&#39;s House&lt;br&gt;of Funds" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="980" y="425" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-12" value="Joe" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="487" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-14" value="SmartCredit" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-19" value="Car&#39;s Custodian&amp;nbsp;&lt;br&gt;Palace" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="409" y="440" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-21" value="SuperNova" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="475" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-22" value="" style="endArrow=classic;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-7" target="XXqK0ynU5rtufRTqIDUd-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="590" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-23" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-20" target="XXqK0ynU5rtufRTqIDUd-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="590" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-25" value="Data&amp;nbsp; about assets.&lt;br&gt;SN takes ownershp but the assets stay with custodian" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-26" value="" style="endArrow=classic;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-5" target="XXqK0ynU5rtufRTqIDUd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1013.75" y="435" as="sourcePoint" />
+            <mxPoint x="850" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-27" value="Mark @ Morty&#39;s&amp;nbsp; sells the SmartCredit&amp;nbsp; product&amp;nbsp; to Joe" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-28" value="Joes wants to buy a boat and but doesn&#39;t want to trade funds due to market" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="907.5" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-29" value="Carl&#39;s is the custodian for Joe&#39;s funds" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-30" value="Nationwide&#39;s Bank" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="640" width="99" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-31" value="SuperNova&#39;s Bank" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="640" width="99" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-33" value="SBL" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-34" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=21;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.258;entryY=0.07;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-32" target="XXqK0ynU5rtufRTqIDUd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="590" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-35" value="Integration setup for each Custodian&lt;br&gt;General Ledger and other data comes from SBL" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-37" value="" style="shape=mxgraph.cisco.people.pc_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="50" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-38" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=18;entryX=0.08;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-30" target="XXqK0ynU5rtufRTqIDUd-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183.1304712080189" y="550.0020944610878" as="sourcePoint" />
+            <mxPoint x="260" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-39" value="Tyler manually enters bank transfers" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="178" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-40" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=18;entryX=0.97;entryY=0.65;entryDx=0;entryDy=0;exitX=0.03;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-31" target="XXqK0ynU5rtufRTqIDUd-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303.1304712080189" y="750.0020944610878" as="sourcePoint" />
+            <mxPoint x="300" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-41" value="transfer of money&lt;br&gt;bi-directional" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263" y="680" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-42" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=18;entryX=0.468;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-31" target="XXqK0ynU5rtufRTqIDUd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="683.1304712080189" y="760.0020944610878" as="sourcePoint" />
+            <mxPoint x="680" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-44" value="" style="endArrow=none;startArrow=classicThin;html=1;fontSize=18;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;startFill=1;endFill=0;" edge="1" parent="1" source="XXqK0ynU5rtufRTqIDUd-7" target="XXqK0ynU5rtufRTqIDUd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513.1304712080189" y="450.00209446108784" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXqK0ynU5rtufRTqIDUd-45" value="Joe takes a draw from&amp;nbsp; his account" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
